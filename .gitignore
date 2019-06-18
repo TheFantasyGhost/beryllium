@@ -121,3 +121,6 @@ kernel/configs/android-*.cfg
 
 # Ignore compiled objects
 obj
+
+# Ignore out 
+out/
